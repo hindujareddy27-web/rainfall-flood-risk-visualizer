@@ -13,7 +13,7 @@ years that indicate elevated flood risk periods.
   event-level flood prediction
 
 ## Key Finding
-X years out of Y total years exceeded the 125% threshold — 
+3 years out of 25 total years exceeded the 125% threshold — 
 identifying specific high-risk periods in Chennai's rainfall 
 history
 
@@ -37,7 +37,7 @@ years that indicate elevated flood risk periods.
   event-level flood prediction
 
 ## Key Finding
-X years out of Y total years exceeded the 125% threshold — 
+3 years out of 25 total years exceeded the 125% threshold — 
 identifying specific high-risk periods in Chennai's rainfall 
 history
 
